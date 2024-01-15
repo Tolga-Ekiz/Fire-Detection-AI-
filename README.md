@@ -3,7 +3,12 @@ Term Project of EEE-485 Statistical Learning and Data Analytics course, Bilkent 
 
 A machine learning-based fire classification system for detecting and alerting the presence of fires.
 
+## Dataset
 - Utilizes information collected from a variety of smoke detection sensors.
+
+Download the dataset from the following link:
+- [Kaggle Dataset](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset)
+
 
 Key Futures: 
 - PCA algorithm was used for dimensionality reduction.
@@ -11,7 +16,3 @@ Key Futures:
 
 ### All of the models were created from scratch and no machine learning libaries were used. 
 
-## Dataset
-
-Download the dataset from the following link:
-- [Kaggle Dataset](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset)
