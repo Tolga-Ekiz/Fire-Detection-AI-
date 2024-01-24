@@ -14,5 +14,5 @@ Key Futures:
 - PCA algorithm was used for dimensionality reduction.
 - Implemented Logistic Regression and Feed Forward Neural Networks to predict whether there is a fire or not.
 
-### All of the models were created from scratch and no machine learning libaries were used. 
+### All of the models were created from scratch with no usage of machine learning libaries. 
 
